@@ -1,0 +1,51 @@
+/*
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+
+    .loginForm {
+      background-color: white;
+      width: 50%;
+      margin-left: 25%;
+      margin-top: 30px;
+      padding-top: 10%;
+      padding-bottom: 10%;
+      box-shadow: 10px 10px 40px 0px rgba(0,0,0,0.75);
+      text-align: center;
+      font-weight: bold;
+    }
+
+    .loginForm input {
+      width: 80%;
+      margin-left: 10%;
+      margin-right: 10%;
+      margin-bottom: 15px;
+      height: 30px;
+      border-radius: 4px;
+      font-size: large;
+    }
+
+    .loginForm button {
+      width: 80%;
+      margin-left: 10.5%;
+      margin-right: 10%;
+      height: 45px;     
+      border-radius: 8px; 
+      background-color: rgb(255, 56, 92);
+      color: white;
+      font-weight: bold;
+      font-size: large;
+    }
+
+    .loginForm .errorMessage {
+      padding-top: 5px;      
+      color: red;
+    }
+  }
+  */

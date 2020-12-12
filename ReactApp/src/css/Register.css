@@ -1,0 +1,83 @@
+.registerComponent {
+  background-color: #f4f7fc;
+  width: auto;
+  height: auto;
+  height: auto;
+  padding-left: 25%;
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+.registerBlock {
+  background-color: white;
+  width: 50%;
+  border-radius: 6px;
+  padding-left: 8%;
+  padding-bottom: 8%;
+}
+
+.registerTitle {
+  display: flex;
+}
+
+.registerTitle p {
+	font-size: 32px;
+   line-height: 18px;
+	font-weight: 350;
+	padding-top: 1.5%;
+}
+
+.registerTitle img {
+	width: 180px;
+	height: 40px;
+	margin-right: 20px;
+	padding-top: 6%;
+}
+
+.subtitleBlock p {
+  font-size: 22px;
+  padding-right: 10%;
+}
+
+.registerBlock input {
+  margin-left: 10%;
+  width: 50%;
+  height: 26px;
+  margin-bottom: 10px;
+}
+
+.registerForm p {
+  font-weight: 600;
+  padding-left: 23%;
+}
+
+.registerForm button {
+  width: 25%;
+  height: 36px;
+	margin-left: 22%;
+	border: 1px solid #0071c2;
+	background-color: #0071c2;
+	border-radius: 3px;
+	font-size: 16px;
+	font-weight: bold;
+	color: white;
+}
+
+.haveAccount {
+  padding-top: 3%;
+  padding-left: 8%;
+}
+
+.haveAccount a {
+  color: blue;
+}
+
+.haveAccount a:hover {
+  cursor: pointer;
+}
+
+.errorMessage {
+  color: red;
+  padding-left: 13%;
+  padding-bottom: 2%;
+}

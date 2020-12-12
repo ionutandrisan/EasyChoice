@@ -1,0 +1,99 @@
+.containerMenu {
+	background-color: #083b66;
+	width: auto;
+	height: 12.5%;
+	padding-top: 0.2%;
+	padding-bottom: 0.2%;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin: 0;
+}
+
+.containerMenu img {
+	width: 140px;
+	height: 30px;
+}
+
+.containerMenu a {
+	width: 15%;
+	height: 100%;
+}
+
+.containerMenu button {
+	float: right;
+	margin-top: 7px;
+	margin-left: 25px;
+	width: 10%;
+	height: 100%;
+	color: #333;
+    background-color: #fff;
+    font-weight: bold;
+	border-radius: 5px;
+	border: 0;
+}
+
+.loginContainer {
+	padding-left: 5%;
+	padding-top: 10%
+}
+
+.loginTitle img {
+	width: 160px;
+	height: 40px;
+	margin-right: 20px;
+	padding-top: 6%;
+}
+
+
+.loginTitle {
+	display: flex;
+}
+
+.loginTitle p {
+	font-size: 32px;
+    line-height: 18px;
+	font-weight: 300;
+	padding-top: 0;
+}
+
+.loginContainer input {
+	width: 70%;
+	margin-left: 10%;
+	height: 30px;
+	margin-bottom: 10px;
+}
+
+.loginContainer input[type=submit] {
+	width: 50%;
+	margin-left: 20%;
+	border: 1px solid #0071c2;
+	background-color: #0071c2;
+	border-radius: 3px;
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+}
+
+.noAccountContainer {
+	margin-top: 5%;
+	margin-left: 10%;
+}
+
+.errorMessage {
+	margin-left: 13%;
+	color: red;
+}
+
+.loginText {
+	margin-top: 10%;
+	font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+}
+
+.loginText p {
+	margin-top: 0;
+	font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+}

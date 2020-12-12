@@ -1,0 +1,30 @@
+.locationForm {
+    width: 50%;
+    margin-left: 25%;
+    box-shadow: 10px 10px 40px 0px rgba(0,0,0,0.75);
+    padding-bottom: 5%;
+    padding-top: 5%;
+    text-align: center;
+}
+
+.locationForm input {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 15px;
+    height: 30px;
+    border-radius: 4px;
+    font-size: large;
+  }
+
+  .locationForm button {
+    width: 80%;
+    margin-left: 10.5%;
+    margin-right: 10%;
+    height: 45px;     
+    border-radius: 8px; 
+    background-color: rgb(255, 56, 92);
+    color: white;
+    font-weight: bold;
+    font-size: large;
+  }

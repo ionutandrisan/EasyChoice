@@ -1,0 +1,13 @@
+@font-face { font-family: myFont; src: url(Roboto-Light.ttf); }
+*{font-family: myFont;}
+body{text-align:center;}
+
+#slider1{width:1000px; height:600px; display:block;}
+#slider2{width:500px; height:800px;}
+#slider3{width:1500px; height:200px;}
+#slider4{width:400px; height:400px;}
+#slider5{width:500px; height:800px;}
+#slider6{width:500px; height:800px;}
+#slider7{width:400px; height:800px;}
+#slider7{width:800px; height:400px;}
+#slider8{width:1000px; height:600px;}

@@ -1,0 +1,195 @@
+.userInfoContainer {
+  padding-top: 5%;
+  padding-left: 10%;
+  padding-bottom: 2%;
+  padding-right: 10%;
+  background-color: #e5e5e5;
+  display: flex;
+}
+
+.menuContainer {
+  background-color: white;
+  width: 275px;
+  box-shadow: 10px 10px 5px -11px rgba(0,0,0,0.75);
+  margin-right: 5%;
+}
+
+.menuContainer img {
+  object-fit: cover;
+  width: 175px;
+  height: 175px;
+  border-radius: 100px;
+  margin-top: 30px;
+}
+
+.addUserImage {
+  margin-top: 0;
+}
+
+.addUserImage label {
+  cursor: pointer;
+  color: blue;
+  margin: 0; 
+  text-align: center;
+  width: 100%; 
+}
+
+.imgContainer p {
+  text-align: center;
+}
+
+.addUserImage p {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.hidden {
+  width: 0px;
+  height: 0px;
+}
+
+.nameContainer p {
+  text-align: center;
+  font-size: 26px;
+  font-weight: 600;
+  margin-top: 0;
+}
+
+.userMenuContainer ul {
+  list-style-type: none;
+  padding-inline-start: 0;
+  margin-top: 25px;
+  padding-bottom: 50px;
+}
+
+.userMenuContainer a {
+  color: #005eb8;
+  text-decoration: none;
+}
+
+.userMenuContainer li {
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 36px;
+  padding-left: 5px;
+  color: black;
+}
+
+.userDetailsContainer {
+  width: 850px;
+  height: 500px;
+  background-color: white;
+  box-shadow: 10px 10px 5px -11px rgba(0,0,0,0.75);
+}
+
+.detailsText p {
+  font-size: 34px;
+  font-weight: 600;
+  line-height: 36px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+  border-bottom: 0.5px solid black;
+}
+
+
+
+.labelsInfo {
+  padding-left: 8%;
+  margin-top: 8%;
+}
+
+.labelsInfo td {
+  font-size: 26px;
+  font-weight: 400;
+  padding-bottom: 15px;
+  padding-right: 100px;
+  border-bottom: 0.5px solid black;
+}
+
+.labelsInfo input {
+  width: 100%;
+  height: 28px;
+  font-size: 22px;
+  margin-left: 20%;
+}
+
+.userReservationsContainer {
+  background-color: #e5e5e5;
+  width: 100%;
+  padding-bottom: 5%;
+}
+
+.userReservations {
+  background-color: white;
+  margin-left: 32%;
+  margin-right: 10.7%;
+}
+
+.userReservationsTitle {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 36px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+  border-bottom: 0.5px solid black;
+}
+
+.singleReservationContainer {
+  border: 1px solid black;
+  margin-top: 5%;
+  display: flex;
+ 
+}
+
+.reservationHouseImg {
+  margin: 2%;
+  width: 175px;
+  height: 175px;
+}
+
+.reservationHouseImg img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.reservationText {
+  margin-top: 4%;
+  margin-bottom: 2%;
+  font-size: 18px;
+  width: 50%;
+}
+
+.reservationButtonsContainer {
+  margin-left: auto;
+  margin-right: 4%;
+  margin-top: auto;
+  margin-bottom: 0.5%;
+  width: 19%;
+}
+
+.reservationButtonsContainer p{
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 6%;
+  margin-bottom: 0;
+  font-size: 12px;
+  text-align: center;
+}
+
+.reservationButtonsContainer button {
+  width: 100%;
+  margin-top: 0;
+  height: 40px;
+  border: 0;
+  border-radius: 8px;
+  background-color: #0071c2;
+  color: white;
+  font-size: 16px;
+  font-weight: 550;
+}
